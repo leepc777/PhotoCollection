@@ -7,6 +7,7 @@ Build a multiple sections Collection View.
 * MVC design
 * delete photos by tapping
 * Add photos without tableView.reload() the whole table.
+* Build delegation protocol between Collection View and Collection Cell.
 
 
 ## Resources
